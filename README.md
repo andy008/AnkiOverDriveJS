@@ -1,5 +1,7 @@
 # AnkiOverDriveJS
 Control code for ANKI Overdrive 
+Inspired by @MasterAirscrachDev Unity/C# version.
+[https://github.com/MasterAirscrachDev/Anki-Partydrive]
 
 ## Scanning for Cars:
 
