@@ -4,7 +4,7 @@ Inspired by @MasterAirscrachDev Unity/C# version.
 https://github.com/MasterAirscrachDev/Anki-Partydrive
 
 ## API
-Detailed docs here https://github.com/andy008/AnkiOverDriveJS/blob/main/API-README.md 
+Detailed docs here https://github.com/MasterAirscrachDev/Anki-Partydrive/tree/main/CarInterface
 
 ## Scanning for Cars:
 
